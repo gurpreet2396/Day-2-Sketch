@@ -1,5 +1,5 @@
 # Day-2-Sketch
-
+ ```
 
 // Temperature Info
 #include <math.h>
@@ -83,3 +83,4 @@ void setColor(int red, int green, int blue)
   analogWrite(greenPin, green);
   analogWrite(bluePin, blue);  
 }
+ ```
